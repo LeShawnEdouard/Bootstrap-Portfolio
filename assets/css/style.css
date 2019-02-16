@@ -3,7 +3,7 @@ body    {
     background-color: gray;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
-.text-muted {
+.card-footer {
     background-color: solid black;
 }
 
