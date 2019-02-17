@@ -28,7 +28,11 @@ body    {
     border: 0 none;
     opacity: 0.8;
 }
-
+.form   {
+    bottom: 20px;
+    width: 100%;
+    padding: 50px;
+}
 
 
 
