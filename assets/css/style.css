@@ -3,8 +3,8 @@ body    {
     background-color: gray;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
-.card-footer {
-    background-color: solid black;
+.card border-secondary mb-3 {
+    
 }
 
 /* *   {box-sizing: border-box;
